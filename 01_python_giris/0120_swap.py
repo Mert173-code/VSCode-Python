@@ -1,5 +1,22 @@
+"""
+a, b =b, a
 a = 10
 b = 20
+temp = a
 a= b
-b= a
+temp = b
 print("a değeri",a,"b değeri", b)
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
