@@ -16,3 +16,7 @@ alt+15  ☼
 """
 print("\"Ege'nin\"", "\"İncisi\"", "\"İzmir!\"", sep="☼")
 #endregion
+
+
+
+
