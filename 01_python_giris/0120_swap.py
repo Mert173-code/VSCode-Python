@@ -18,3 +18,6 @@ print(sayi1 ,"ve", sayi2 ,"sayilarinin ortalaması",ort)
 
 
 
+#git push -u https://github.com/Mert173-code/VSCode-Python.git
+#git commit -m 01112021-1504
+#git add .
