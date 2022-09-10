@@ -23,4 +23,4 @@ Bugün günlerden Cumartesi, İstanbulda hava sıcaklığı 29 derece.
 # takıpEden="6"
 # takipEttiklerim="0"
 
-# print(takıpEden +  " " ,"fallowers ." + takipEttiklerim + " " ,"fallowing")
+# print(takıpEden +  " " ,"fallowers ." + takipEttiklerim + " " ,"fallowing") 
