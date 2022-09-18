@@ -88,7 +88,7 @@ ekrandaki 2 saat değerinin saniye karşılığı 7200 sn.
 
 
 
-
+"""
 s = int(input("lütfen sayı giriniz\t: "))
 kalan = s % 10
 birler = kalan//1
@@ -97,7 +97,7 @@ onlar = kalan//10
 kalan = s % 1000
 yuzler = kalan//100
 print(f"basamakları {yuzler} {onlar} {birler} sayının haneleri toplamı {yuzler+onlar+birler}")
-
+"""
 
 
 
