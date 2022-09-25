@@ -30,8 +30,16 @@ else:
 
 
 
+"""
+kargo_bedeli = 7.5
+toplam_urun_tutari = int(input("Lütfen toplam ürün tutarı girin: "))
 
+if toplam_urun_tutari >= 250:
+    print(f"{toplam_urun_tutari} tutarında alışveriş yaptığınız için kargo ücretsiz. ")
 
+if toplam_urun_tutari < 250:
+    print(f"{toplam_urun_tutari} tutarında alışveriş yaptınız için kargo bedeli {kargo_bedeli} TL'dir. ")
+"""
 
 
 
