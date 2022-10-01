@@ -71,6 +71,91 @@ while i < 100:
 print(f"\n{sayi} ya tam bolunenlerin adedi {counter}")
 """
 
+"""
+i , j = 0 , 0
+while i<10:
+    while j<=i:
+        print(" * ",end =" ")
+        j+=1
+    print()
+    i+=1    
+ """   
+
+
+
+
+# pattern
+
+"""
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+"""
+# i, j = 0, 0
+# while i < 10:
+#     while j <= i:
+#         print(" * ", end="")
+#         j += 1
+#     print()
+#     j=0
+#     i +=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+tek=False
+tekAdet=0
+tekToplam=0
+cift=False   #belki ihtiyac olabilir
+ciftAdet=0
+ciftToplam=0
+while True:
+    sayi = int(input("Lütfen tek sayı giriniz= "))
+    if (sayi==-1):
+        
+        
+        break
+    elif(sayi%2==1):
+        tek=True
+        tekAdet +=1
+        tekToplam +=sayi
+        pass
+    else:    # burayı es geciyom ama seklen dursa iyi olur gibi
+        print("Sadece tek sayı girilmeliydi...!")
+        
+        pass
+print(f"Girilen tek sayi adeti= {tekAdet}")
+print(f"Girilen tek sayi toplami= {tekToplam}")
+print("Teşekkürler tekrar görüşmek üzere ...")
+"""
+
+
+
+
 
 
 
