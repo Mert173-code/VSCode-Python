@@ -5,7 +5,7 @@ rakamlar=[6,2,7,3,5]
 ["Altı","İki","Yedi","Üç","Beş" ]
 """
 
-
+"""
 rakamlar=[8,7,6]
 for i in rakamlar:
     if i==1:
@@ -26,7 +26,7 @@ for i in rakamlar:
         print("SEKİZ",end=" ")
     elif i==9:
         print("DOKUZ",end=" ")
-
+"""
 
 
 
