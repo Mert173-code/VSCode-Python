@@ -25,7 +25,6 @@ yeşil yol, titanik, rocky, yüzüklerin efendisi
     # elif x==1:
     #     film=input("Eklenecek Film Adı Girin : ")
     #     favoriFilm.append(film)
-    
     # elif x==2:
     #     film=input("Cıkarılcak film adı giriniz: ")
     #     favoriFilm.remove(film)
@@ -67,6 +66,30 @@ for i in notlar:
 print(f"en düşük not {min(notlar)}- en yüksek not {max(notlar)}")
 
 """
+
+#CÜMLE KESME
+"""
+aciklama = "Word, belgenizin profesyonelce üretilmiş görünmesini sağlamak için birbirini tamamlayan üst bilgi, alt bilgi, kapak sayfası ve metin kutusu tasarımları sağlar. Örneğin, birbiriyle uyumlu bir kapak sayfası, başlık ve kenar çubuğu ekleyebilirsiniz. Ekle'ye tıklayın ve ardından farklı galerilerden eklemek istediğiniz öğeleri seçin."
+# print(len(aciklama))
+yeni = ""
+x = 0
+if len(aciklama) > 30:
+    for i in aciklama:
+        yeni += i
+        x += 1
+        if x==30:
+            break
+print(f"{yeni}...")
+
+"""
+
+
+
+
+
+
+
+
 
 
 
